@@ -1,6 +1,5 @@
 {
     "name": "toolchain-xtensa-esp8266",
-	"owner": "xjnxjnxjn",
     "version": "8.4.0+esp2020r3",
     "description": "Espressif ESP8266 xtensa-lx106",
     "system": ["windows", "windows_amd64", "windows_x86"],
@@ -13,6 +12,6 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/xjnxjnxjn/pio-xtensa8266-8.4.0.git"
+        "url": "https://github.com/xjnxjnxjn/pio-toolchain-xtensa8266-8.4.0.git"
     }
 }
